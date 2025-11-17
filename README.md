@@ -8,6 +8,7 @@ Initial work on a speech recognition system for Garo
 - Triksimeda Sangma
 - Scarlett Pechacek
 - Rosie Fossberg
+- Shanya Wijeyawardana
 - ...
 
 ## Data structure
