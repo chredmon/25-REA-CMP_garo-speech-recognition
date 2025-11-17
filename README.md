@@ -10,7 +10,7 @@ Initial work on a speech recognition system for Garo
 
 ## Data structure
 
-- dat/      <-- all audio and transcript data
+- dat/      [all audio and transcript data]
   - AIR/    <-- data from All India radio
     
 - src/      <-- all Python scripts for running models
