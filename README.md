@@ -9,6 +9,7 @@ Initial work on a speech recognition system for Garo
 - Scarlett Pechacek
 - Rosie Fossberg
 - Shanya Wijeyawardana
+- Louis Garrett
 - Yaqi Zhang
 - [Llinos Evans](https://github.com/ShiraTheMogul)
 
