@@ -14,7 +14,7 @@ Initial work on a speech recognition system for Garo
 - [Llinos Evans](https://github.com/ShiraTheMogul)
 - Miguel Tomás Martínez
 - Irene Garcia Nalda
-  
+  Gayani Hettiarachchi
 ## Data structure
 
 ### Data (dat/)
